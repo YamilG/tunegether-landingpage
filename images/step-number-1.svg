@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-139.000000, -838.000000)">
+            <g id="Group-19" transform="translate(139.000000, 838.000000)">
+                <g id="Group-18">
+                    <circle id="Oval" fill="#FFC12D" cx="16" cy="16" r="16"></circle>
+                    <text id="1" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" line-spacing="20" fill="#65589C">
+                        <tspan x="12" y="24">1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
